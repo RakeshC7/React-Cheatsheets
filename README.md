@@ -12,6 +12,11 @@
 | React-Hooks cheatsheet             | A cheatsheet with live editable examples and one-stop reference for hooks.                                                                                                                                | [react hooks](https://react-hooks-cheatsheet.com/)                                                     |
 | Freecodecamp React cheatsheet      | a super helpful cheatsheet to give you a complete overview of all of the React concepts you need to know.                                                                                                 | [freecodecamp react cheatsheet](https://www.freecodecamp.org/news/the-react-cheatsheet/)               |
 
+## ✨ Contributing
+
+Contributing is possible via GitHub. Alternatively, you can send in content, content-drafts or content-ideas
+via Mail: rcdesign28@gmail.com .
+
 ## 🔗 Let's Connect
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshc7/)
