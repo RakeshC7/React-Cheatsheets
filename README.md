@@ -2,10 +2,9 @@
 
 Comprehensive React.js cheatsheets : your quick reference guide to mastering React's core concepts and techniques.
 
-| Cheatsheet          | Description                                                                                      | Links                                 |
-| ------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------- |
-| React.js cheatsheet | React is a JavaScript library for building user interfaces. This guide targets React v15 to v16. | [devhints](https://devhints.io/react) |
-
+| Cheatsheet                | Description                                                                                      | Links                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| React.js cheatsheet       | React is a JavaScript library for building user interfaces. This guide targets React v15 to v16. | [devhints](https://devhints.io/react)                               |
 | SheCodes React Cheatsheet | React is a JavaScript library for building user interfaces. This guide targets React v15 to v16. | [shecodes](http://cheatsheets.shecodes.io/cheatsheets/react/events) |
 
 ### React Typescript Cheatsheet
