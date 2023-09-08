@@ -12,6 +12,14 @@
 | React-Hooks cheatsheet             | A cheatsheet with live editable examples and one-stop reference for hooks.                                                                                                                                | [react hooks](https://react-hooks-cheatsheet.com/)                                                     |
 | Freecodecamp React cheatsheet      | a super helpful cheatsheet to give you a complete overview of all of the React concepts you need to know.                                                                                                 | [freecodecamp react cheatsheet](https://www.freecodecamp.org/news/the-react-cheatsheet/)               |
 
+### React Video tutorials & Articles
+
+| Resource Name                    | Description                                                                                                                                                                                               | Links                                                                                                  |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| React Resources | React articles & tutorials | [React Resources](https://www.freecodecamp.org/news/the-react-cheatsheet/)               |
+| React Official website | React.dev serves as the primary source for official React documentation. It provides comprehensive guides, tutorials, and reference materials for developers who want to learn and work with React. | [React.dev](https://react.dev/learn#) |
+| React Introduction by Kent C. Dodds | A free, concise video course covering essential React concepts like JSX, conditional rendering, forms, styling, lists, HTTP requests, and app deployment. | [ egghead react Course by Kent ](https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction) |
+
 ## ✨ Contributing
 
 Contributing is possible via GitHub. Alternatively, you can send in content, content-drafts or content-ideas
