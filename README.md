@@ -4,6 +4,7 @@
 
 | Cheatsheet Name                    | Description                                                                                                                                                                                               | Links                                                                                                  |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+
 | devhints React cheat sheet          | React is a JavaScript library for building user interfaces. This guide targets React v15 to v16.                                                                                                          | [devhints](https://devhints.io/react)                                                                  |
 | SheCodes React Cheat sheet          | Comprehensive React cheat sheet for beginners.                                                                                                                                                             | [shecodes](http://cheatsheets.shecodes.io/cheatsheets/react/events)                                    |
 | React Typescript Cheat sheet        | React has documentation for how to start a new React project with some of the most popular frameworks. Here's how to start them with TypeScript.                                                          | [react typescript](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup)                   |
@@ -12,6 +13,7 @@
 | React-Hooks cheat sheet             | A cheat sheet with live editable examples and one-stop reference for hooks.                                                                                                                                | [react hooks](https://react-hooks-cheatsheet.com/)                                                     |
 | Freecodecamp React cheat sheet      | a super helpful cheat sheet to give you a complete overview of all of the React concepts you need to know.                                                                                                 | [freecodecamp react cheat sheet](https://www.freecodecamp.org/news/the-react-cheatsheet/)               |
 | CodeCademy React cheat sheet | Codecademy has hundreds of free and easy-to-use cheat sheets that cover dozens of coding languages and are created by our world-class curriculum developers. | [CodeCademy react cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) |
+
 
 ### React Video tutorials & Articles
 
